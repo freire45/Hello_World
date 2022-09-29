@@ -1,7 +1,7 @@
 # Hello World In Java
   Hello World In Java
 
- ## Print do Programa Funcionando
+ ## Image Program
 ![Currículo no Computador](helloWorld.png)
 
 ## Video: 
